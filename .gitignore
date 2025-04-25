@@ -1,0 +1,79 @@
+# # Byte-compiled / optimized / DLL files
+__pycache__/
+# *.py[cod]
+# *$py.class
+
+# # C extensions
+# *.so
+
+# # Django stuff:
+# *.log
+# *.pot
+# *.pyc
+# *.pyo
+# *.pyd
+# db.sqlite3
+# *.sqlite3
+# media/
+# staticfiles/
+# static_root/
+# local_settings.py
+# .env
+# .env.*
+
+# # Migration files (optional – keep if you're collaborating)
+# # ** uncomment below line if you don’t want to track migrations
+# # */migrations/*.py
+# */migrations/__pycache__/
+
+# # If you use Django secret key files
+# secret_key.txt
+
+# # VS Code
+# .vscode/
+
+# # Virtualenv
+# env/
+venv/
+# ENV/
+# .venv/
+# pip-selfcheck.json
+
+# # PyCharm
+# .idea/
+# *.iml
+
+# # macOS
+# .DS_Store
+
+# # Linux
+# *~ 
+
+# # Windows
+# Thumbs.db
+# ehthumbs.db
+# Desktop.ini
+
+# # Test coverage
+# htmlcov/
+# .tox/
+# .nox/
+# .coverage
+# .coverage.*
+# .cache
+# nosetests.xml
+# coverage.xml
+# *.cover
+# .hypothesis/
+
+# # Pytest
+# .pytest_cache/
+
+# # mypy
+# .mypy_cache/
+
+# # Jupyter Notebook checkpoints
+# .ipynb_checkpoints
+
+# # Sentry CLI auth
+# .sentryclirc
